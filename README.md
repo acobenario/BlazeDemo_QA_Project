@@ -35,6 +35,8 @@ BlazeDemo_QA_Project/
 ├── venv/  
 ├── requirements.txt      
 ├── Test_Plan.pdf  
-├── Test_Summary.pdf  
+├── Test_Summary.pdf    
+├── Test_Scenarios.xlsx  
+├── Test_Cases.docx  
 └── README.md  
 
