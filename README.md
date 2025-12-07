@@ -30,13 +30,14 @@
 BlazeDemo_QA_Project/  
 │  
 ├── automation_scripts/  
-├── manual_testing/ 
-    ├── test_plan.pdf  
-    ├── test_scenarios.xlsx   
-    ├── test_cases.docx   
+├── manual_testing/  
+│   ├── test_plan.pdf  
+│   ├── test_scenarios.xlsx  
+│   └── test_cases.docx  
 ├── reports/  
 ├── venv/  
-├── requirements.txt      
-├── Test_Summary.pdf   
+├── requirements.txt  
+├── Test_Summary.pdf  
 └── README.md  
+
 
