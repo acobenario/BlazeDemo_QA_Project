@@ -42,7 +42,3 @@ BlazeDemo_QA_Project/
 ├── Test_Plan.pdf
 ├── Test_Summary.pdf
 └── README.md
-
-
-
-### 
